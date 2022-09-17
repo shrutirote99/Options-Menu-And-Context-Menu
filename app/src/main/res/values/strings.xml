@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OptionsAndContextMenu</string>
+    <string name="enable_settings">Enable Settings</string>
+    <string name="back">Back</string>
+    <string name="save">Save</string>
+    <string name="save_as">Save As</string>
+    <string name="open">Open</string>
+    <string name="copy">Copy</string>
+    <string name="save_image_url">Save Image URL</string>
+</resources>
